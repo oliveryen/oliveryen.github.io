@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://oliveryen.github.io</id>
+    <title>Oliver Lab</title>
+    <updated>2023-03-10T08:12:34.265Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://oliveryen.github.io"/>
+    <link rel="self" href="https://oliveryen.github.io/atom.xml"/>
+    <subtitle>Oliver&apos;s lab: life, work and love</subtitle>
+    <logo>https://oliveryen.github.io/images/avatar.png</logo>
+    <icon>https://oliveryen.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Oliver Lab</rights>
+    <entry>
+        <title type="html"><![CDATA[椒麻凉拌鸡胸肉]]></title>
+        <id>https://oliveryen.github.io/post/jiao-ma-liang-ban-ji-xiong-rou/</id>
+        <link href="https://oliveryen.github.io/post/jiao-ma-liang-ban-ji-xiong-rou/">
+        </link>
+        <updated>2023-03-07T02:56:42.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="椒麻凉拌鸡胸肉">椒麻凉拌鸡胸肉</h2>
+<h2 id="准备食材">准备食材</h2>
+<h3 id="食材">食材🍜</h3>
+<ol>
+<li>鸡胸肉</li>
+<li>香菜</li>
+<li>青椒🫑</li>
+<li>大蒜</li>
+<li>熟白芝麻</li>
+<li>干辣椒</li>
+<li>黑胡椒</li>
+</ol>
+<h2 id="步骤">步骤</h2>
+<ol>
+<li>解冻鸡胸，加料酒，小火加盖煮15min</li>
+<li>切好香菜（我不吃）</li>
+<li>切好青辣椒🫑，增加口感</li>
+<li>酱汁</li>
+</ol>
+<ul>
+<li>大蒜末🧄</li>
+<li>熟白芝麻</li>
+<li>干辣椒🌶️</li>
+<li>辣椒粉</li>
+<li>黑胡椒</li>
+</ul>
+<p>最后注入热油</p>
+<ol>
+<li>手撕鸡胸肉（趁热）</li>
+<li>搅拌均匀，出锅</li>
+</ol>
+<p><a href="upnote://x-callback-url/tag/view?tag=%E5%A2%9E%E8%82%8C" title="#增肌">#增肌</a> <a href="upnote://x-callback-url/tag/view?tag=%E8%8F%9C%E8%B0%B1" title="#菜谱">#菜谱</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Something]]></title>
+        <id>https://oliveryen.github.io/post/something/</id>
+        <link href="https://oliveryen.github.io/post/something/">
+        </link>
+        <updated>2023-03-07T02:26:37.000Z</updated>
+        <content type="html"><![CDATA[<p>Something great's happening</p>
+]]></content>
+    </entry>
+</feed>
